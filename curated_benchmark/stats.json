@@ -1,0 +1,45 @@
+{
+  "total_examples": 29151,
+  "by_source": {
+    "CLAPNQ": {
+      "num_examples": 14293,
+      "avg_num_documents": 1.0,
+      "avg_answer_length_words": 36.95424333589869,
+      "num_with_evidence_spans": 12788,
+      "num_with_claim_labels": 0,
+      "num_with_faithfulness_or_factuality_labels": 0
+    },
+    "HAGRID": {
+      "num_examples": 4532,
+      "avg_num_documents": 2.823036187113857,
+      "avg_answer_length_words": 40.3693733451015,
+      "num_with_evidence_spans": 0,
+      "num_with_claim_labels": 0,
+      "num_with_faithfulness_or_factuality_labels": 0
+    },
+    "QuoteSum": {
+      "num_examples": 3999,
+      "avg_num_documents": 3.236809202300575,
+      "avg_answer_length_words": 58.69942485621405,
+      "num_with_evidence_spans": 0,
+      "num_with_claim_labels": 0,
+      "num_with_faithfulness_or_factuality_labels": 0
+    },
+    "SynSciQA++": {
+      "num_examples": 669,
+      "avg_num_documents": 6.095665171898355,
+      "avg_answer_length_words": 106.72047832585949,
+      "num_with_evidence_spans": 0,
+      "num_with_claim_labels": 0,
+      "num_with_faithfulness_or_factuality_labels": 0
+    },
+    "rag_uncertainty_claim_level": {
+      "num_examples": 5658,
+      "avg_num_documents": 1.0,
+      "avg_answer_length_words": 111.87168610816543,
+      "num_with_evidence_spans": 0,
+      "num_with_claim_labels": 1686,
+      "num_with_faithfulness_or_factuality_labels": 0
+    }
+  }
+}
