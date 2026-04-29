@@ -16,7 +16,9 @@ The benchmark file is large, so it is distributed as a compressed artifact:
 - `benchmark_eval.jsonl.gz`
 - `SHA256SUMS.txt`
 
-These should be downloaded from your shared file store (e.g., PolyBox) for the corresponding version tag (e.g., `v0.1.0`).
+Download (PolyBox): `https://polybox.ethz.ch/index.php/s/BSpYDY4ceMzGEsj`
+
+For a given version tag (e.g., `v0.1.0`), download **both** `benchmark_eval.jsonl.gz` and `SHA256SUMS.txt`.
 
 ### Verify download integrity
 From the directory containing the downloaded files:
